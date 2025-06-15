@@ -24,7 +24,7 @@ AccreHub is a web-based document management system specifically designed for aca
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/AccreHub.git
+git clone https://github.com/SenpaiJoeru05/AccreHub.git
 ```
 
 2. Install dependencies
